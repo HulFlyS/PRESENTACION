@@ -44,7 +44,7 @@
 
 ---
 
-#RESPUESTAS
+# RESPUESTAS
 
 - Códigos con formato 1xx: Respuestas informativas.
 - Códigos con formato 2xx: Respuestas correctas.
@@ -54,7 +54,7 @@
 
 ---
 
-#COOKIES
+# COOKIES
 
 Una cookie HTTP, cookie web o cookie de navegador es una pequeña pieza de datos que un servidor envía a el navegador web del usuario. El navegador guarda estos datos y los envía de regreso junto con la nueva petición al mismo servidor.
 
