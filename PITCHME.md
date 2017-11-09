@@ -70,7 +70,7 @@ Una cookie HTTP, cookie web o cookie de navegador es una pequeña pieza de datos
 
 ---
 
-# CARACTERÍSTICAS HTTP/2.0
+# HTTP/2.0
 
 - Una única conexión
 - Eliminación de información redundante
