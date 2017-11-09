@@ -2,7 +2,7 @@
 
 ---
 
-#CARACTERÍSTICAS
+# CARACTERÍSTICAS
 
 - Es sencillo.
 - Es extensible.
@@ -11,7 +11,7 @@
 
 ---
 
-# TÍPICA DE SESIÓN
+TÍPICA DE SESIÓN
 En los protocolos basados en el modelo cliente-servidor, como es el caso del HTTP, una sesión consta de tres fases:
 
 - El cliente establece una conexión TCP (o la conexión correspondiente si la capa de transporte corresponde a otro protocolo).
@@ -20,7 +20,7 @@ En los protocolos basados en el modelo cliente-servidor, como es el caso del HTT
 
 ---
 
-# CABECERAS DE protocolo
+CABECERAS DE protocolo
 
 Son los metadatos que se envían en las peticiones o respuesta HTTP para proporcionar información esencial sobre la transacción en curso. Podemos clasificar las cabeceras según su función:
 
@@ -35,7 +35,7 @@ Son los metadatos que se envían en las peticiones o respuesta HTTP para proporc
 
 ---
 
-#PETICIONES
+PETICIONES
 
 HTTP define un conjunto de métodos de petición para indicar la acción que se desea realizar para un recurso determinado. Aunque estos también pueden ser sustantivos, estos métodos de solicitud a veces son llamados HTTP verbs. Cada uno de ellos implementan una semántica diferente, pero algunas características similares son compartidas por un grupo de ellos.
 
@@ -60,7 +60,7 @@ HTTP define un conjunto de métodos de petición para indicar la acción que se 
 
 ---
 
-# RESPUESTAS
+RESPUESTAS
 El código de respuesta o retorno es un número que indica que ha pasado con la petición. El resto del contenido de la respuesta dependerá del valor de este código.
 
 - Códigos con formato 1xx: Respuestas informativas. Indica que la petición ha sido recibida y se está procesando.
@@ -71,13 +71,13 @@ El código de respuesta o retorno es un número que indica que ha pasado con la 
 
 ---
 
-# COOKIES
+COOKIES
 
 Una cookie HTTP, cookie web o cookie de navegador es una pequeña pieza de datos que un servidor envía a el navegador web del usuario. El navegador guarda estos datos y los envía de regreso junto con la nueva petición al mismo servidor. Las cookies se usan generalmente para decirle al servidor que dos peticiones tiene su origen en el mismo navegador web lo que permite, por ejemplo, mantener la sesión de un usuario abierta. Las cookies permiten recordar la información de estado en vista a que el protocolo HTTP es un protocolo sin estado.
 
 ---
 
-# EVOLUCIÓN
+EVOLUCIÓN
 
 - 0.9 (lanzada en 1991)
     Obsoleta. Soporta sólo un comando, GET, y además no especifica el número de versión HTTP. No soporta cabeceras. Como esta versión no soporta POST, el cliente no puede enviarle mucha información al servidor.
@@ -92,7 +92,7 @@ Una cookie HTTP, cookie web o cookie de navegador es una pequeña pieza de datos
 
 ---
 
-# CARACTERÍSTICAS HTTP 2.0
+CARACTERÍSTICAS HTTP 2.0
 
 - Una única conexión
 - Eliminación de información redundante
