@@ -19,7 +19,7 @@
 
 ---
 
-# CABECERAS DE PROTOCOLO
+# CABECERAS
 
 - Cabeceras que indican las capacidades aceptadas por el que envía el mensaje.
 - Cabeceras que describen el contenido.
