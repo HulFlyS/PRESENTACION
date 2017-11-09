@@ -11,7 +11,7 @@
 
 ---
 
-TÍPICA DE SESIÓN
+TÍPICA DE SESIÓN<br>
 En los protocolos basados en el modelo cliente-servidor, como es el caso del HTTP, una sesión consta de tres fases:
 
 - El cliente establece una conexión TCP (o la conexión correspondiente si la capa de transporte corresponde a otro protocolo).
@@ -20,7 +20,7 @@ En los protocolos basados en el modelo cliente-servidor, como es el caso del HTT
 
 ---
 
-CABECERAS DE protocolo
+CABECERAS DE protocolo<br>
 
 Son los metadatos que se envían en las peticiones o respuesta HTTP para proporcionar información esencial sobre la transacción en curso. Podemos clasificar las cabeceras según su función:
 
@@ -35,7 +35,7 @@ Son los metadatos que se envían en las peticiones o respuesta HTTP para proporc
 
 ---
 
-PETICIONES
+PETICIONES<br>
 
 HTTP define un conjunto de métodos de petición para indicar la acción que se desea realizar para un recurso determinado. Aunque estos también pueden ser sustantivos, estos métodos de solicitud a veces son llamados HTTP verbs. Cada uno de ellos implementan una semántica diferente, pero algunas características similares son compartidas por un grupo de ellos.
 
